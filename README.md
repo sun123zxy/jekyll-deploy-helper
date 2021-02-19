@@ -1,5 +1,7 @@
 # jekyll-deploy-helper
 
+**Warning: The project has been abandoned.**
+
 Deploy your jekyll site at a certain existing branch.
 
 ## Notice
